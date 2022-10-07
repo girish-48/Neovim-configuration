@@ -2,7 +2,7 @@
 A minimal and visually pleasing neovim configuration  ( neovim 0.7.2 recommended for same results )
 ---
 
-This repo assumes that you have already installed neovim 0.7.2 and packer.nvim installed.
+This repo assumes that you have already installed powerfonts ( I tried it with Hack Regular and FiraCode Light ) neovim 0.7.2 and packer.nvim installed.
 
 
 download this repo and place lua directory, init.lua file in your .config/nvim directory and just give :PackerSync <br>
