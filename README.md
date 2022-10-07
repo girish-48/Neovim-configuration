@@ -5,7 +5,7 @@ A minimal and visually pleasing neovim configuration  ( neovim 0.7.2 recommended
 This repo assumes that you have already installed neovim 0.7.2 and packer.nvim installed.
 
 
-download this repo and place it in your .config/nvim directory and just give :PackerSync 
+download this repo and place it in your .config/nvim directory and just give :PackerSync <br>
 Enjoy the new config !!
 
 ---
