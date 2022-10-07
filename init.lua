@@ -1,0 +1,6 @@
+require('settings')
+require('packer-config')
+require('nvim-tree-config')
+require('mappings')
+require('Lualine')
+require('tree-sitter-config')
